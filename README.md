@@ -31,6 +31,7 @@ Remover filas con valores nulos.
 
 4. Limpieza de las fechas
 Se incluyen dos funciones para limpiar y corregir el formato de las fechas:
+
 remove_prefix(date) elimina el prefijo "Reported" de las fechas.
 
 fix_format_date(date) convierte las fechas a un formato estándar (dd-mm-yyyy).
