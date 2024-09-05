@@ -37,10 +37,12 @@ fix_format_date(date) convierte las fechas a un formato estándar (dd-mm-yyyy).
 
 5. Filtrar los datos desde 2020
 La función filter_date(df) convierte la columna de fechas a un tipo datetime y filtra los registros a partir del 1 de enero de 2020:
+
 ![Captura6](https://github.com/user-attachments/assets/bbe6636b-ba32-4727-950c-23ac021ed6d8)
 
 6. Imprimir el DataFrame filtrado
 Finalmente, el código imprime el DataFrame filtrado con los datos de ataques de tiburones registrados desde 2020:
+
 ![image](https://github.com/user-attachments/assets/d0f83703-3b05-4a87-bc88-0754e18937e6)
 
 
