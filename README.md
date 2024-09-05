@@ -18,6 +18,7 @@ El código carga el archivo de datos de ataques de tiburones desde la URL propor
 
 2. Eliminar columnas innecesarias
 Se define una función delete_columns(df) para eliminar las columnas que no son relevantes para el análisis:
+
 ![Captura3](https://github.com/user-attachments/assets/f7d5b978-00b9-4748-a55f-e9984c8053d1)
 
 3. Limpiar el DataFrame
