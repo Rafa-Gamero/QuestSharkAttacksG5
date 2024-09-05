@@ -31,8 +31,8 @@ Remover filas con valores nulos.
 
 4. Limpieza de las fechas
 Se incluyen dos funciones para limpiar y corregir el formato de las fechas:
-
 remove_prefix(date) elimina el prefijo "Reported" de las fechas.
+
 fix_format_date(date) convierte las fechas a un formato estándar (dd-mm-yyyy).
 ![Captura5](https://github.com/user-attachments/assets/a184b153-c2f0-4013-b29f-6cd0d342ecac)
 
