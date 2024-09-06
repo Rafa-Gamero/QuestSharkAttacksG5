@@ -30,9 +30,13 @@ Visualizations:
 Key visualizations generated throughout the analysis include:
 
 Bar Chart: Top 10 countries with the most attacks since 2000.
+
 Bar Chart: Top 5 activities with the highest number of attacks.
+
 Bar Chart: Monthly distribution of attacks.
+
 Stacked Bar Chart: Distribution of attacks by state and activity.
+
 Conclusion:
 This project helps to visualize and better understand the patterns of shark attacks worldwide. Through data analysis and visualizations, we can identify the activities and regions with the highest risk.
 
