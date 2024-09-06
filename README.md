@@ -1,6 +1,6 @@
 # QuestSharkAttacksG5
 
-Proyecto: Análisis de Datos de Ataques de Tiburones
+
 Este proyecto ha sido realizado por Almudena Ocaña,José Martín,Mario Jiménez y Rafael Gamero. Este proyecto se centra en la recolección, limpieza, y análisis de datos de ataques de tiburones a nivel global, con el objetivo de identificar tendencias y patrones en los ataques. Se utiliza Python junto con varias bibliotecas populares para manipulación y visualización de datos.
 
 Aqui tenemos el enlace a la presentacion que hemos de realizado para este proyecto.
